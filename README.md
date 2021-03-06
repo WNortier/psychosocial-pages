@@ -10,6 +10,6 @@ https://www.meetup.com/fedsa-community/events/276476297/?comment_table_id=268307
 
 Planning:
 
-![Planning1]('/assets/Heidi.png')
+![plan](assets/Heidi.png)
 
-![Planning2]('/assets/plan.png')
+![plan1](assets/plan.png)
