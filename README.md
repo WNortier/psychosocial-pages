@@ -1,6 +1,6 @@
 # psychosocial-pages
 
-### Built during a 1 day Hackathon hosted by Open Data Day Hackathon hosted by Front-end Development South Africa (FEDSA).
+### Built during a 1 day Hackathon by Open Data Day Hackathon hosted by Codebridge & Front-end Development South Africa (FEDSA).
 
 The topic was using technology for social good in South Africa.
 
